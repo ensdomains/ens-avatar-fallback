@@ -1,0 +1,13 @@
+name = "ens-generated-avatar"
+main = "src/index.ts"
+compatibility_date = "2022-12-21"
+
+
+[[r2_buckets]]
+binding = "GENERATED_AVATAR"
+bucket_name = "generated-avatar"
+preview_bucket_name = "preview-generated-avatar"
+
+[vars]
+# The necessary secrets are:
+# - API_KEY
